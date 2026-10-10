@@ -47,10 +47,8 @@ Both models share the same classification head on top of EfficientNetB0:
 |---|---|---|---|
 | EfficientNetB0, scratch | 62.07% | 1.03 | 17 |
 | **EfficientNetB0, transfer** | **89.66%** | **0.34** | 11 |
-| VGG16, scratch* | 68.74% | 0.80 | 30 |
-| VGG16, transfer* | 77.70% | - | - |
 
-\*VGG16 results come from the other half of the group project and are not reproduced in this notebook.
+
 
 **Takeaways**
 - Transfer learning gives a large gain: about +27 points of accuracy for EfficientNetB0.
