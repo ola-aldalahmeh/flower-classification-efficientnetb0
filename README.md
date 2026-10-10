@@ -4,7 +4,7 @@ Image classification of flower species with **EfficientNetB0**, comparing a mode
 
 ## Dataset
 
-- **Source:** [Kaggle:](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition))
+- **Source:** [Kaggle: Flowers Recognition](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition)
 - **Task:** 5-class flower classification
 - **Classes:** daisy, dandelion, rose, sunflower, tulip
 - **Image size used:** 150x150, batch size 32
